@@ -57,5 +57,16 @@ Feel free to connect with me on various platforms:
 
 ## Open to Collaborations
 
-I'm always open to collaborating on interesting projects. If you have any ideas or projects you'd like to collaborate on, feel free to reach out to me.
+I'm always open to collaborating on interesting projects. If you have any ideas or projects you'd like to collaborate on, feel free to reach out to me.  
+
+┌──┤ WHOAMI ├─────────▰▰▰<img src="https://github.com/raut-santosh/raut-santosh/assets/106371057/8d00fa69-6dc8-451d-8220-5d198ed37663" align="right" width="300">
+│  
+├─▣ Full Stack Developers  
+├─▣ Passionate tech enthusiast      
+├─▣ Problem Solver    
+├─▣ Dedicated programmer    
+│  
+└───────────────────────────────▰▰▰
+
+
 
