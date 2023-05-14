@@ -45,7 +45,7 @@ Here are some of the key skills and technologies that I'm proficient in:
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raut-santosh&show_icons=true&theme=radical) <img src="https://github.com/raut-santosh/raut-santosh/assets/106371057/aeb931c8-8258-4e2c-a431-19b1ef0e3b0d" align="right" width="400" height="200">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raut-santosh&show_icons=true&theme=radical) <img src="https://github.com/raut-santosh/raut-santosh/assets/106371057/aeb931c8-8258-4e2c-a431-19b1ef0e3b0d" align="right" width="300" height="200">
 ## Connect with Me
 
 Feel free to connect with me on various platforms:
@@ -59,7 +59,7 @@ Feel free to connect with me on various platforms:
 
 I'm always open to collaborating on interesting projects. If you have any ideas or projects you'd like to collaborate on, feel free to reach out to me.  
 
-┌──┤ WHOAMI ├─────────▰▰▰<img src="https://github.com/raut-santosh/raut-santosh/assets/106371057/8d00fa69-6dc8-451d-8220-5d198ed37663" align="right" width="300">
+┌──┤ WHOAMI ├─────────▰▰▰<img src="https://github.com/raut-santosh/raut-santosh/assets/106371057/8d00fa69-6dc8-451d-8220-5d198ed37663" align="right" width="300" height="140">
 │  
 ├─▣ Full Stack Developers  
 ├─▣ Passionate tech enthusiast      
