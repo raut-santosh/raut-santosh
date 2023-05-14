@@ -1,33 +1,61 @@
-<h1 align="center">Hi 👋, I'm Santosh Raut</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+# Welcome to My GitHub Profile! 👋
+![name](https://github.com/raut-santosh/raut-santosh/assets/106371057/be3936df-1653-43e0-92e7-e69c296a630b)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raut-santosh&label=Profile%20views&color=0e75b6&style=flat" alt="raut-santosh" /> </p>
+## About Me
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raut-santosh" alt="raut-santosh" /></a> </p>
+Hello, I'm Santosh Raut, a passionate full-stack developer specializing in the MEAN stack. I have 1 year of experience working at Mobify Technology Solutions Private Limited. I enjoy building web applications and solving complex problems using the latest technologies.
 
-<p align="left"> <a href="https://twitter.com/rautsantosh2137" target="blank"><img src="https://img.shields.io/twitter/follow/rautsantosh2137?logo=twitter&style=for-the-badge" alt="rautsantosh2137" /></a> </p>
+## Projects
 
-- 🔭 I’m currently working on [PPL India Website](https://dev.pplindia.org/)
+Here are some of the projects I've worked on:
 
-- 🌱 I’m currently learning **Angular**
+1. **MRSS PLUS**:
+   - Description: A music rights system for a Singapore-based company that provides music rights to hotels, restaurants, and bars. The system handles license management, invoice generation, billing, and user management.
+   - Technologies used: Angular, Express, Node.js, MongoDB
 
-- 💬 Ask me about **html, css, javascript, angular, nodejs.**
+2. **PPL INDIA PLUS**:
+   - Description: A music rights system for a music rights provider in India.
+   - Technologies used: Angular, php, mysql, redbeans
 
-- 📫 How to reach me **rautsantoshtukaram@gmail.com**
+3. **PPL India Official Website**:
+   - Description: Worked on the design, backend, and CSS of the official website for a music rights provider in India.
+   - Technologies used: Angular, Express, Node.js, MongoDB
+   - [Website](https://dev.pplindia.org/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/raut-santosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="raut-santosh" height="30" width="40" /></a>
-<a href="https://twitter.com/rautsantosh2137" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rautsantosh2137" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/raut-santosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raut-santosh" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/geeky santosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="geeky santosh" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+Feel free to reach out to me for more information about these projects or any collaboration opportunities!
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raut-santosh&show_icons=true&locale=en&layout=compact" alt="raut-santosh" /></p>
+## Skills
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raut-santosh&show_icons=true&locale=en" alt="raut-santosh" /></p>
+Here are some of the key skills and technologies that I'm proficient in:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raut-santosh&" alt="raut-santosh" /></p>
+### Web Development
+![Angular](https://img.icons8.com/color/48/000000/angularjs.png "Angular") ![Express](https://img.icons8.com/office/48/000000/api-settings.png "Express") ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png "Node.js") ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png "MongoDB") ![PHP](https://img.icons8.com/officexs/48/000000/php.png "PHP") ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png "JavaScript")
+
+### Programming Languages
+![Python](https://img.icons8.com/color/48/000000/python.png "Python")
+
+
+### Operating Systems
+![Linux](https://img.icons8.com/color/48/000000/linux.png "Linux")
+
+### Tools and Others
+![GitHub](https://img.icons8.com/material-outlined/48/000000/github.png "GitHub") ![Postman](https://img.icons8.com/color/48/000000/postman.png "Postman")
+
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raut-santosh&show_icons=true&theme=radical) <img src="https://github.com/raut-santosh/raut-santosh/assets/106371057/aeb931c8-8258-4e2c-a431-19b1ef0e3b0d" align="right" width="400" height="200">
+## Connect with Me
+
+Feel free to connect with me on various platforms:
+
+- rautsantoshtukaram@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/raut-santosh/)
+- [Twitter](https://twitter.com/rautsantosh2137)
+
+
+## Open to Collaborations
+
+I'm always open to collaborating on interesting projects. If you have any ideas or projects you'd like to collaborate on, feel free to reach out to me.
+
