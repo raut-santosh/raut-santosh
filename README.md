@@ -61,7 +61,7 @@ I'm always open to collaborating on interesting projects. If you have any ideas 
 
 ┌──┤ WHOAMI ├─────────▰▰▰<img src="https://github.com/raut-santosh/raut-santosh/assets/106371057/8d00fa69-6dc8-451d-8220-5d198ed37663" align="right" width="300" height="140">
 │  
-├─▣ Full Stack Developers  
+├─▣ Full Stack Developer  
 ├─▣ Passionate tech enthusiast      
 ├─▣ Problem Solver    
 ├─▣ Dedicated programmer    
