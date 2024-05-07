@@ -3,7 +3,7 @@
 
 ## About Me
 
-Hello, I'm Santosh Raut, a passionate full-stack developer specializing in the MEAN stack. I have 1 year of experience working at Mobify Technology Solutions Private Limited. I enjoy building web applications and solving complex problems using the latest technologies.
+Hello, I'm Santosh Raut, a passionate full-stack developer specializing in the MEAN stack. I have 2 year of experience working at Mobify Technology Solutions Private Limited. I enjoy building web applications and solving complex problems using the latest technologies.
 
 ## Projects
 
