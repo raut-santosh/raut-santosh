@@ -3,7 +3,7 @@
 
 ## About Me
 
-Hello, I'm Santosh Raut, a passionate full-stack developer specializing in the MEAN stack. I have 2 year of experience working at Mobify Technology Solutions Private Limited. I enjoy building web applications and solving complex problems using the latest technologies.
+Hello, I'm Santosh Raut, a passionate full-stack developer specializing in the MEAN stack. I have 2+ years of experience. I enjoy building web applications and solving complex problems using the latest technologies.
 
 ## Projects
 
@@ -18,9 +18,12 @@ Here are some of the projects I've worked on:
    - Technologies used: Angular, php, mysql, redbeans
 
 3. **PPL India Official Website**:
-   - Description: Worked on the design, backend, and CSS of the official website for a music rights provider in India.
+   - Description: Worked on the design, CSS and Backend of the official website for a music rights provider in India.
    - Technologies used: Angular, Express, Node.js, MongoDB
    - [Website](https://dev.pplindia.org/)
+  
+4. **OMS (Order Management System)**:
+   - Description: Worked on Ai playground component ui and various user dashboards
 
 
 Feel free to reach out to me for more information about these projects or any collaboration opportunities!
