@@ -13,12 +13,12 @@ Full Stack Developer
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-2496ED?style=flat-square&logo=react&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-2965f1?style=flat-square&logo=css3&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563d7c?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-2496ED?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-C21325?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-39bdf8?style=flat-square&logo=tailwindcss&logoColor=white" />
 </p>
 
 ---
