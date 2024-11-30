@@ -1,6 +1,6 @@
-# <center>Hi there 👋 I'm Santosh Raut</center>
+# Hi there 👋 I'm Santosh Raut
 
-<center>** Full Stack Developer **</center>
+Full Stack Developer
 
 ---
 
