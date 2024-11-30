@@ -1,75 +1,44 @@
-# Welcome to My GitHub Profile! 👋
-![name](https://github.com/raut-santosh/raut-santosh/assets/106371057/be3936df-1653-43e0-92e7-e69c296a630b)
+# <center>Hi there 👋 I'm Santosh Raut</center>
 
-## About Me
+<center>** Full Stack Developer **</center>
 
-Hello, I'm Santosh Raut, a passionate full-stack developer specializing in the MEAN stack. I have 2+ years of experience. I enjoy building web applications and solving complex problems using the latest technologies.
+---
 
-## Projects
+## 🚀 Technologies & Tools 
 
-Here are some of the projects I've worked on:
+<p align="center">
+  <img alt="Angular" src="https://img.shields.io/badge/-Angular-ff0000?style=flat-square&logo=angular&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-323330?style=flat-square&logo=express&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-2965f1?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563d7c?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-2496ED?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-C21325?style=flat-square&logo=tailwindcss&logoColor=white" />
+</p>
 
-1. **MRSS PLUS**:
-   - Description: A music rights system for a Singapore-based company that provides music rights to hotels, restaurants, and bars. The system handles license management, invoice generation, billing, and user management.
-   - Technologies used: Angular, Express, Node.js, MongoDB
+---
 
-2. **PPL INDIA PLUS**:
-   - Description: A music rights system for a music rights provider in India.
-   - Technologies used: Angular, php, mysql, redbeans
+## 📊 GitHub Stats
 
-3. **PPL India Official Website**:
-   - Description: Worked on the design, CSS and Backend of the official website for a music rights provider in India.
-   - Technologies used: Angular, Express, Node.js, MongoDB
-   - [Website](https://dev.pplindia.org/)
-  
-4. **OMS (Order Management System)**:
-   - Description: Worked on Ai playground component ui and various user dashboards
+<div align="center">
+  <a href="https://github-readme-stats.vercel.app/api?username=raut-santosh&show_icons=true&theme=gruvbox&count_private=true">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=raut-santosh&show_icons=true&theme=gruvbox&count_private=true" alt="Santosh's GitHub Stats" />
+  </a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=raut-santosh&count_private=true&layout=compact&langs_count=8&theme=gruvbox">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raut-santosh&count_private=true&layout=compact&langs_count=8&theme=gruvbox" alt="Santosh's Most Used Languages" />
+  </a>
+</div>
 
+---
 
-Feel free to reach out to me for more information about these projects or any collaboration opportunities!
+## 📬 How to Reach Me
 
-## Skills
-
-Here are some of the key skills and technologies that I'm proficient in:
-
-### Web Development
-![Angular](https://img.icons8.com/color/48/000000/angularjs.png "Angular") ![Express](https://img.icons8.com/office/48/000000/api-settings.png "Express") ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png "Node.js") ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png "MongoDB") ![PHP](https://img.icons8.com/officexs/48/000000/php.png "PHP") ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png "JavaScript")
-
-### Programming Languages
-![Python](https://img.icons8.com/color/48/000000/python.png "Python")
-
-
-### Operating Systems
-![Linux](https://img.icons8.com/color/48/000000/linux.png "Linux")
-
-### Tools and Others
-![GitHub](https://img.icons8.com/material-outlined/48/000000/github.png "GitHub") ![Postman](https://img.icons8.com/color/48/000000/postman.png "Postman")
-
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raut-santosh&show_icons=true&theme=radical) <img src="https://github.com/raut-santosh/raut-santosh/assets/106371057/aeb931c8-8258-4e2c-a431-19b1ef0e3b0d" align="right" width="300" height="200">
-## Connect with Me
-
-Feel free to connect with me on various platforms:
-
-- rautsantoshtukaram@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/raut-santosh/)
-- [Twitter](https://twitter.com/rautsantosh2137)
-
-
-## Open to Collaborations
-
-I'm always open to collaborating on interesting projects. If you have any ideas or projects you'd like to collaborate on, feel free to reach out to me.  
-
-┌──┤ WHOAMI ├─────────▰▰▰<img src="https://github.com/raut-santosh/raut-santosh/assets/106371057/8d00fa69-6dc8-451d-8220-5d198ed37663" align="right" width="300" height="140">
-│  
-├─▣ Full Stack Developer  
-├─▣ Passionate tech enthusiast      
-├─▣ Problem Solver    
-├─▣ Dedicated programmer    
-│  
-└───────────────────────────────▰▰▰
-
-
-
+<p align="center">
+  <a href="mailto:rautsantoshtukaram@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?&style=for-the-badge&logo=Gmail&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/raut-santosh" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
