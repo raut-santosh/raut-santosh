@@ -1,6 +1,7 @@
 # Hi there 👋 I'm Santosh Raut
 
-Full Stack Developer
+## Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+Coding Ideas since 2022.<br/>
 
 ---
 
