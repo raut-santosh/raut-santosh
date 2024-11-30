@@ -3,7 +3,7 @@
 ## Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 Coding Ideas since 2022.<br/>
 
----
+
 
 ## 🚀 Technologies & Tools 
 
@@ -22,7 +22,7 @@ Coding Ideas since 2022.<br/>
   <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-39bdf8?style=flat-square&logo=tailwindcss&logoColor=white" />
 </p>
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -35,7 +35,7 @@ Coding Ideas since 2022.<br/>
   </a>
 </div>
 
----
+
 
 ## 📬 How to Reach Me
 
